@@ -1,4 +1,4 @@
-## XIX-EBEE
+# XIX-EBEE
 
 
 XIX Escola Brasileira de Estrutura Eletrônica
@@ -8,7 +8,7 @@ A Escola Brasileira de Estrutura Eletrônica (EBEE) é um evento científico e e
 
 Além de promover a capacitação técnica, a EBEE também desempenha um papel fundamental na integração da comunidade científica brasileira, incentivando colaborações interinstitucionais e o desenvolvimento de redes de pesquisa. Com edições realizadas em diferentes regiões do Brasil, a escola contribui para a descentralização do conhecimento e para a formação de recursos humanos altamente qualificados na área de simulação computacional de materiais.
 
-# Coordenador
+### Coordenador
 Marcio Costa     - Universidade Federal Fluminense
 
 Comitê Local
