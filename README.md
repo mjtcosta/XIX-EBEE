@@ -11,7 +11,7 @@ Além de promover a capacitação técnica, a EBEE também desempenha um papel f
 ### Coordenador
 Marcio Costa     - Universidade Federal Fluminense
 
-Comitê Local
+### Comitê Local
 
 Rodrigo Amorim   - Universidade Federal Fluminense
 
@@ -21,7 +21,7 @@ Reinaldo Faria   - Universidade Federal Fluminense
 
 Felipe Lima      - Ilum/CNPEM
 
-Comitê de Programa
+### Comitê de Programa
 
 Andrea Latgé    - Universidade Federal Fluminense
 
@@ -32,4 +32,5 @@ Gustavo Dalpian - Universidade de São Paulo
 Pedro Venezuela - Universidade Federal Fluminense
 
 Rodrigo Capaz   - Universidade Federal do Rio de Janeiro & LNNano/CNPEM
+
 Sylvio Canuto   - Universidade de São Paulo
