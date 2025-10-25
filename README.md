@@ -12,15 +12,24 @@ Coordenador
 Marcio Costa     - Universidade Federal Fluminense
 
 Comitê Local
+
 Rodrigo Amorim   - Universidade Federal Fluminense
+
 Luciano T Costa  - Universidade Federal Fluminense
+
 Reinaldo Faria   - Universidade Federal Fluminense
+
 Felipe Lima      - Ilum/CNPEM
 
 Comitê de Programa
+
 Andrea Latgé    - Universidade Federal Fluminense
+
 Angela Klautau  - Universidade Federal do Pará
+
 Gustavo Dalpian - Universidade de São Paulo
+
 Pedro Venezuela - Universidade Federal Fluminense
+
 Rodrigo Capaz   - Universidade Federal do Rio de Janeiro & LNNano/CNPEM
 Sylvio Canuto   - Universidade de São Paulo
