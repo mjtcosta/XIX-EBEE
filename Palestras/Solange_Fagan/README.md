@@ -14,6 +14,6 @@ Esta apresentação integra **simulações *ab initio* (DFT)**, **docking molecu
 - Chahar, M.; *et al.* *Recent advances in the effective removal of hazardous pollutants from wastewater*. **Front. Environ. Sci.** 11, 1226101 (2023). https://www.frontiersin.org/articles/10.3389/fenvs.2023.1226101/full  
 
 ## Perfis da palestrante
-- **Google Scholar — Solange Binotto Fagan:** https://scholar.google.com/citations?user=9wIfg9EAAAAJ 
+- **Google Scholar  :** https://scholar.google.com/citations?user=9wIfg9EAAAAJ 
 - **Currículo Lattes:** https://lattes.cnpq.br/8537174715205717  
 
