@@ -1,4 +1,4 @@
-# Minicurso (XIX Escola Brasileira de Estrutura Eletrônica)
+# Optical Properties of Nanomaterials from ab-initio Calculations 
 
 ## Introdução
 Este minicurso da **XIX Escola Brasileira de Estrutura Eletrônica** apresenta um roteiro prático e conceitual para o cálculo de **propriedades ópticas de nanomateriais a partir de primeiros princípios**. Partimos da **Teoria do Funcional da Densidade (DFT)** para descrever o estado fundamental e discutimos suas limitações na predição de gaps e espectros. A partir daí, motivamos a **Teoria de Perturbações de Muitos Corpos (MBPT)**: a aproximação **GW** para correções de quase-partículas e a **Equação de Bethe–Salpeter (BSE)** para incluir **excitons** na resposta óptica. Ao longo do caminho, exploramos exemplos que vão desde a correção do gap em semicondutores à renormalização da velocidade de Fermi em grafeno, destacando por que **efeitos excitônicos são particularmente fortes em sistemas 2D**.
