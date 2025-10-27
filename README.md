@@ -15,11 +15,14 @@
 </div> -->
 
 
-<div style="display:flex; gap:16px; justify-content:space-between; align-items:flex-start;">
+<!-- <div style="display:flex; gap:16px; justify-content:space-between; align-items:flex-start;">
   <img src="Figures/EBEE-2025.png" alt="Esquerda" style="width:38%; height:auto;">
   <img src="Figures/EBEE-2025.png"        alt="Direita"  style="width:38%; height:auto;">
-</div>
+</div> -->
 
+<img src="Figures/EBEE-2025.png" alt="Esquerda" style="float:left;  width:38%; margin:0 12px 12px 0;">
+<img src="Figures/EBEE-2025.png"      alt="Direita"  style="float:right; width:38%; margin:0 0 12px 12px;">
+<div style="clear:both;"></div>
 
 
 # XIX Escola Brasileira de Estrutura Eletrônica ([EBEE](https://www1.fisica.org.br/~ebee/xix/index.php))
