@@ -1,7 +1,15 @@
 
-<img src="Figures/EBEE-2025.png"  width="180" style="float:right; margin:50 0 8px 12px;">
+<!-- <img src="Figures/EBEE-2025.png"  width="180" style="float:right; margin:50 0 8px 12px;"> -->
 <!-- <img src="Figures/EBEE-2025.png" alt="Figura no canto superior direito" width="180" style="float:right; margin:0 0 8px 120px;"> -->
 
+<!-- Alternativa (HTML absoluto para páginas HTML):
+<style>
+</style>
+-->
+
+<div style="text-align:right">
+  <img src="Figures/EBEE-2025.png" alt="EBEE-2025" width="180">
+</div>
 
 
 # XIX Escola Brasileira de Estrutura Eletrônica
