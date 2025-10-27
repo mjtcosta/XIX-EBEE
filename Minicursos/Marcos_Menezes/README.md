@@ -12,10 +12,6 @@ Além dos fundamentos, o minicurso enfatiza **boas práticas numéricas e de con
 - Como analisar **efeitos excitônicos fortes em 2D** e suas implicações experimentais.  
 - Caminhos para **óptica não linear com excitons** (SHG, *shift current*) e leitura crítica dos resultados.
 
-## Público-alvo e pré-requisitos
-O minicurso destina-se a estudantes de pós-graduação e pesquisadores em física da matéria condensada, química teórica e áreas afins. Pressupõe familiaridade com mecânica quântica, noções básicas de DFT e interesse em propriedades ópticas de materiais; experiência prévia com códigos de primeiros princípios é bem-vinda, mas não essencial.
-
-
 ## Referências (com links)
 
 ### Fundamentos (DFT e ótica linear)
