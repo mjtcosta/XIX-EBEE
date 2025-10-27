@@ -1,3 +1,6 @@
+<style>.top-right{position:absolute;top:10px;right:10px}</style>
+<img src="Figures/EBEE-2025.png" class="top-right" alt="Figura">
+
 # XIX Escola Brasileira de Estrutura Eletrônica
 
 A Escola Brasileira de Estrutura Eletrônica (EBEE) faz parte das Escolas de Física Jorge André Swieca, da Sociedade Brasileira de Física (SBF). 
