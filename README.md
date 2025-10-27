@@ -44,3 +44,10 @@ Pedro Venezuela - Universidade Federal Fluminense
 Rodrigo Capaz   - Universidade Federal do Rio de Janeiro & LNNano/CNPEM
 
 Sylvio Canuto   - Universidade de São Paulo
+
+
+# Programa
+
+<div style="text-align:right">
+  <img src="Figures/Programa.png" alt="Programa" width="180">
+</div>
