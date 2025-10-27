@@ -1,4 +1,4 @@
-<style>.top-right{position:absolute;top:10px;right:10px}</style>
+<style>.top-right{position:absolute;top:5px;right:5px}</style>
 <img src="Figures/EBEE-2025.png" class="top-right" alt="Figura">
 
 # XIX Escola Brasileira de Estrutura Eletrônica
