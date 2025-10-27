@@ -20,8 +20,8 @@
   <img src="Figures/EBEE-2025.png"        alt="Direita"  style="width:38%; height:auto;">
 </div> -->
 
-<img src="Figures/EBEE-2025.png" alt="Esquerda" style="float:left;  width:38%; margin:0 12px 12px 0;">
-<img src="Figures/EBEE-2025.png"      alt="Direita"  style="float:right; width:38%; margin:0 0 12px 12px;">
+<img src="Figures/EBEE-2025.png" alt="Esquerda" style="float:left;  width:20%; margin:0 12px 12px 0;">
+<img src="Figures/EBEE-2025.png"      alt="Direita"  style="float:right; width:20%; margin:0 0 12px 12px;">
 <div style="clear:both;"></div>
 
 
