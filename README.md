@@ -9,7 +9,7 @@
 <!-- Marp (se usar Marp): ![right width:180](Figures/EBEE-2025.png) -->
 <!-- Pandoc/Quarto: ![](Figures/EBEE-2025.png){width=180 .float-right} -->
 
-<div style="display:flex; gap:12px; justify-content:space-between; align-items:flex-start;">
+<div style="display:flex; gap:50px; justify-content:space-between; align-items:flex-start;">
   <img src="Figures/EBEE-2025.png" alt="Esquerda" style="width:28%;">
   <img src="Figures/EBEE-2025.png" alt="Direita"  style="width:28%;">
 </div>
