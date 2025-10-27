@@ -14,6 +14,6 @@ Esta apresentação conduz o público do problema eletrônico de muitos corpos �
 - Szilva, A. *et al.* “Quantitative theory of magnetic interactions in solids”, **Rev. Mod. Phys.** 95, 035004 (2023). https://link.aps.org/doi/10.1103/RevModPhys.95.035004
 
 ## Perfis do palestrante
-- **Google Scholar (Ramon Cardias):** https://scholar.google.com/citations?user=jO7Zy_wAAAAJ
-- **Currículo Lattes:** (via Busca Textual) https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4450024P9
+- **Google Scholar   :** https://scholar.google.com/citations?user=jO7Zy_wAAAAJ
+- **Currículo Lattes :** https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4450024P9
 
