@@ -9,10 +9,17 @@
 <!-- Marp (se usar Marp): ![right width:180](Figures/EBEE-2025.png) -->
 <!-- Pandoc/Quarto: ![](Figures/EBEE-2025.png){width=180 .float-right} -->
 
-<div style="display:flex; gap:50px; justify-content:space-between; align-items:flex-start;">
+<!-- <div style="display:flex; gap:50px; justify-content:space-between; align-items:flex-start;">
   <img src="Figures/EBEE-2025.png" alt="Esquerda" style="width:28%;">
   <img src="Figures/EBEE-2025.png" alt="Direita"  style="width:28%;">
+</div> -->
+
+
+<div style="display:flex; gap:16px; justify-content:space-between; align-items:flex-start;">
+  <img src="Figures/EBEE-2025.png" alt="Esquerda" style="width:38%; height:auto;">
+  <img src="Figures/EBEE-2025.png"        alt="Direita"  style="width:38%; height:auto;">
 </div>
+
 
 
 # XIX Escola Brasileira de Estrutura Eletrônica ([EBEE](https://www1.fisica.org.br/~ebee/xix/index.php))
