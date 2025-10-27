@@ -1,5 +1,5 @@
 
-<img src="Figures/EBEE-2025.png"  width="280" style="float:left; margin:0 0 8px 12px;">
+<img src="Figures/EBEE-2025.png"  width="180" style="float:right; margin:50 0 8px 12px;">
 <!-- <img src="Figures/EBEE-2025.png" alt="Figura no canto superior direito" width="180" style="float:right; margin:0 0 8px 120px;"> -->
 
 
