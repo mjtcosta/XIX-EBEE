@@ -10,8 +10,8 @@
 <!-- Pandoc/Quarto: ![](Figures/EBEE-2025.png){width=180 .float-right} -->
 
 <div style="display:flex; gap:12px; justify-content:space-between; align-items:flex-start;">
-  <img src="Figures/EBEE-2025.png" alt="Esquerda" style="width:48%;">
-  <img src="Figures/EBEE-2025.png" alt="Direita"  style="width:48%;">
+  <img src="Figures/EBEE-2025.png" alt="Esquerda" style="width:28%;">
+  <img src="Figures/EBEE-2025.png" alt="Direita"  style="width:28%;">
 </div>
 
 
