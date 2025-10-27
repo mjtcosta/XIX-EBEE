@@ -5,13 +5,6 @@ Este minicurso da **XIX Escola Brasileira de Estrutura Eletrônica** apresenta u
 
 Além dos fundamentos, o minicurso enfatiza **boas práticas numéricas e de convergência**, essenciais para resultados confiáveis: escolha e densidade de malhas k, número de bandas vazias, tratamentos do potencial de Coulomb em 2D e critérios de parada. Mostramos estratégias específicas para materiais bidimensionais e discutimos como **respostas ópticas não lineares** (p.ex., *second harmonic generation* e *shift current*) podem ser tratadas de forma consistente com excitons. O objetivo é fornecer ao participante um mapa claro que conecte teoria, implementação e interpretação física, com ênfase em resultados recentes e aplicações relevantes.
 
-## O que você vai aprender
-- Quando (e por que) a DFT falha para espectros ópticos — e como o **GW** corrige energias de quase-partículas.  
-- Como formular e resolver a **BSE** para extrair espectros, energias de ligação excitônica e oscilações características.  
-- **Boas práticas de convergência**: malhas k, bandas vazias, corte de Coulomb e armadilhas típicas em 2D.  
-- Como analisar **efeitos excitônicos fortes em 2D** e suas implicações experimentais.  
-- Caminhos para **óptica não linear com excitons** (SHG, *shift current*) e leitura crítica dos resultados.
-
 ## Referências (com links)
 
 ### Fundamentos (DFT e ótica linear)

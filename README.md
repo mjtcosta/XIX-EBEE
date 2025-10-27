@@ -1,7 +1,5 @@
-# XIX-EBEE
+# XIX Escola Brasileira de Estrutura Eletrônica
 
-
-XIX Escola Brasileira de Estrutura Eletrônica
 A Escola Brasileira de Estrutura Eletrônica (EBEE) faz parte das Escolas de Física Jorge André Swieca, da Sociedade Brasileira de Física (SBF). 
 
 A Escola Brasileira de Estrutura Eletrônica (EBEE) é um evento científico e educacional de caráter nacional que tem como objetivo principal a formação e o aprimoramento de estudantes de graduação e pós-graduação nas áreas de Física, Química, Ciência de Materiais e afins. Reunindo pesquisadores experientes e jovens estudantes, a EBEE oferece uma programação intensiva com minicursos, palestras, tutoriais e sessões de pôsteres, abordando desde fundamentos teóricos a aplicações computacionais avançadas em métodos como a Teoria do Funcional da Densidade (DFT), métodos pós-DFT, tight-binding, técnicas de dinâmica molecular e Inteligência Artificial.
