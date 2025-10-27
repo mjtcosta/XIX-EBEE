@@ -15,5 +15,5 @@ Esta apresentação integra **simulações *ab initio* (DFT)**, **docking molecu
 
 ## Perfis da palestrante
 - **Google Scholar — Solange Binotto Fagan:** https://scholar.google.com/citations?user=9wIfg9EAAAAJ  :contentReference[oaicite:0]{index=0}  
-- **Currículo Lattes:** https://lattes.cnpq.br/8537174715205717  :contentReference[oaicite:1]{index=1}
+- **Currículo Lattes:** https://lattes.cnpq.br/8537174715205717  
 
