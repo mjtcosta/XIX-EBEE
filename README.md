@@ -1,5 +1,7 @@
-<style>.top-right{position:absolute;top:5px;right:5px}</style>
-<img src="Figures/EBEE-2025.png" class="top-right" alt="Figura">
+
+<img src="Figures/EBEE-2025.png" alt="Figura no canto superior direito" width="180" style="float:right; margin:0 0 8px 12px;">
+
+
 
 # XIX Escola Brasileira de Estrutura Eletrônica
 
