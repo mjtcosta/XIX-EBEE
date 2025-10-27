@@ -51,3 +51,26 @@ Sylvio Canuto   - Universidade de São Paulo
 <div style="text-align:right">
   <img src="Figures/Programa.png" alt="Programa" width="680">
 </div>
+
+
+## Minicursos
+
+- **Alexandre C. Dias** (UnB) — *Excitonic Effects using WanTiBEXOS Package: A MLWF-TB+BSE approach*
+- **Fernando Sabino** (USP – São Carlos) — *Introdução à Teoria do Funcional da Densidade: Fundamentos e Aplicações em Materiais*
+- **Luana Pedroza** (IFUSP) — *Dinâmica Molecular na Era da Inteligência Artificial*
+- **Marcos Menezes** (IF-UFRJ) — *Optical Properties of Nanomaterials from ab-initio Calculations*
+
+## Palestras
+
+- **Adalberto Fazzio** (Ilum/CNPEM) — *100 Anos de Mecânica Quântica e (quase) 100 Anos de Estrutura Eletrônica de Sólidos*
+- **Alexandre Reily Rocha** (IFT-Unesp) — *Dinâmica de Água e Gelo utilizando Machine Learning e efeitos quânticos nucleares*
+- **Antonio Azevedo** (UFPe) — *Unlocking Spin, Orbital and Charge Degrees of Freedom in Heterostructures*
+- **Breno Galvão** (CEFET-MG) — *Molecules in the Interstellar Medium*
+- **Carlos Mera** (UFABC) — *A New Chapter in Magnetism: The Rise of Altermagnets*
+- **Eduardo Girão** (UFPI) — *Graph Theory Tools for the Search and Identification of New 2D Nanocarbons with Targeted Electronic Properties*
+- **Flaviano dos Santos** (CBPF) — *Construindo e explorando modelos de spin a partir de métodos de primeiros princípios: do magnetismo não colinear às ondas de spin topológicas.*
+- **Ramon Cardias** (CBPF) — *Estrutura eletrônica e magnetismo: do ab initio ao semi-clássico*
+- **Roberto Bechara Muniz** (UFF) — *As contribuições científicas do Prof. José d'Albuquerque e Castro*
+- **Solange Fagan** (UFN) — *Integrating Theory and Experiment: Ab Initio and Molecular Docking Approaches in Carbon Nanostructures*
+- **Tarik Cysne** (IF-UFF) — *Orbitronics: From Transport to Topology*
+- **Thiago Cardozo** (IQ-UFRJ) — *A Aristocracia Química — Previsão Teórica de Espécies Metaestáveis de Gases Nobres*
