@@ -110,7 +110,7 @@ Sylvio Canuto   - Universidade de São Paulo
 <table>
   <tr>
     <td valign="middle"><img src="Figures/SCHERM.png" height="180" alt="Right"></td>
-    <td valign="right"><img src="Figures/VERSATUS.png" height="180" alt="Right"></td>
+    <td valign="right"><img src="Figures/VERSATUS.png" height="150" alt="Right"></td>
   </tr>
 </table>
 
