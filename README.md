@@ -27,7 +27,7 @@
 <!-- <img src="Figures/EBEE-2025.png" width="280" alt="Esquerda">                   <img src="Figures/if-uff.png" width="280" alt="Direita">  -->
 
 <img src="Figures/EBEE-2025.png" width="260" alt="Left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="Figures/if-uff.png"      width="260" alt="Right">
 
 
