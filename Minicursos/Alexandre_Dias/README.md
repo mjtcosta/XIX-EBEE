@@ -23,4 +23,4 @@ Este minicurso apresenta o **WanTiBEXOS**, um pacote baseado em **tight‑bindin
 
 ## GITHUB
 
-** https://github.com/ac-dias/wantibexos-recipes
+https://github.com/ac-dias/wantibexos-recipes
