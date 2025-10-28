@@ -86,13 +86,9 @@ Sylvio Canuto   - Universidade de São Paulo
 
 <table>
   <tr>
-    <td><img src="Figures/EBEE-2025.png" height="280" alt="Left"></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td valign="middle"><img src="Figures/INCT-MAT-INFO.png" height="180" alt="Right"></td>
-    <td valign="center"><img src="Figures/INCT-MAT-INFO.png" height="180" alt="Right"></td>
-    <td valign="right"><img src="Figures/INCT-MAT-INFO.png" height="180" alt="Right"></td>
+    <td valign="center"><img src="Figures/FAPERJ.jpg" height="180" alt="Right"></td>
+    <td valign="right"><img src="Figures/CAPES.png" height="180" alt="Right"></td>
   </tr>
 </table>
 
