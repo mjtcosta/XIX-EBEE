@@ -87,7 +87,7 @@ Sylvio Canuto   - Universidade de São Paulo
 <table>
   <tr>
     <td valign="middle"><img src="Figures/INCT-MAT-INFO.png" height="180" alt="Right"></td>
-    <td valign="center"><img src="Figures/FAPERJ.jpg" height="180" alt="Right"></td>
+    <td valign="center"><img src="Figures/FAPERJ.jpg" height="100" alt="Right"></td>
     <td valign="right"><img src="Figures/CAPES.png" height="180" alt="Right"></td>
   </tr>
 </table>
