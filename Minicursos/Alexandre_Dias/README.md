@@ -20,3 +20,7 @@ Este minicurso apresenta o **WanTiBEXOS**, um pacote baseado em **tight‑bindin
 ## Perfis
 - **Google Scholar:** https://scholar.google.com/citations?user=0Pe4TDQAAAAJ  
 - **Lattes:** http://lattes.cnpq.br/6101630210269302
+
+## Github
+
+https://github.com/ac-dias/wantibexos-recipes
