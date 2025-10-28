@@ -20,7 +20,7 @@
   <img src="Figures/EBEE-2025.png"        alt="Direita"  style="width:38%; height:auto;">
 </div> -->
 
-<img src="Figures/EBEE-IF-Logo.png" alt="Esquerda" style="float:left;  width:80%; margin:0 12px 12px 0;">
+<img src="Figures/EBEE-IF-Logo.png" alt="Esquerda" style="float:left;  width:120%; margin:0 12px 12px 0;">
 <!-- <img src="Figures/if-uff.png" alt="Direita"  style="float:center; width:20%; margin:0 0 12px 12px;"> -->
 <div style="clear:both;"></div>
 
