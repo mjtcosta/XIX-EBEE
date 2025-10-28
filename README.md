@@ -24,7 +24,7 @@
 <!-- <img src="Figures/if-uff.png" alt="Direita"  style="float:center; width:20%; margin:0 0 12px 12px;"> -->
 <!-- <div style="clear:both;"></div> -->
 
-<img src="Figures/EBEE-2025.png" width="280" alt="Esquerda"> | <img src="Figures/if-uff.png" width="280" alt="Direita"> 
+<img src="Figures/EBEE-2025.png" width="280" alt="Esquerda">                    <img src="Figures/if-uff.png" width="280" alt="Direita"> 
 
 
 # XIX Escola Brasileira de Estrutura Eletrônica ([EBEE](https://www1.fisica.org.br/~ebee/xix/index.php))
