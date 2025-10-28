@@ -1,4 +1,31 @@
-# XIX Escola Brasileira de Estrutura Eletrônica
+
+<!-- <img src="Figures/EBEE-2025.png"  width="180" style="float:right; margin:50 0 8px 12px;"> -->
+<!-- <img src="Figures/EBEE-2025.png" alt="Figura no canto superior direito" width="180" style="float:right; margin:0 0 8px 120px;"> -->
+
+<!-- <div style="text-align:right">
+  <img src="Figures/EBEE-2025.png" alt="EBEE-2025" width="180">
+</div> -->
+
+<!-- Marp (se usar Marp): ![right width:180](Figures/EBEE-2025.png) -->
+<!-- Pandoc/Quarto: ![](Figures/EBEE-2025.png){width=180 .float-right} -->
+
+<!-- <div style="display:flex; gap:50px; justify-content:space-between; align-items:flex-start;">
+  <img src="Figures/EBEE-2025.png" alt="Esquerda" style="width:28%;">
+  <img src="Figures/EBEE-2025.png" alt="Direita"  style="width:28%;">
+</div> -->
+
+
+<!-- <div style="display:flex; gap:16px; justify-content:space-between; align-items:flex-start;">
+  <img src="Figures/EBEE-2025.png" alt="Esquerda" style="width:38%; height:auto;">
+  <img src="Figures/EBEE-2025.png"        alt="Direita"  style="width:38%; height:auto;">
+</div> -->
+
+<img src="Figures/EBEE-2025.png" alt="Esquerda" style="float:left;  width:20%; margin:0 12px 12px 0;">
+<!-- <img src="Figures/EBEE-2025.png" alt="Direita"  style="float:right; width:20%; margin:0 0 12px 12px;"> -->
+<div style="clear:both;"></div>
+
+
+# XIX Escola Brasileira de Estrutura Eletrônica ([EBEE](https://www1.fisica.org.br/~ebee/xix/index.php))
 
 A Escola Brasileira de Estrutura Eletrônica (EBEE) faz parte das Escolas de Física Jorge André Swieca, da Sociedade Brasileira de Física (SBF). 
 
@@ -32,3 +59,33 @@ Pedro Venezuela - Universidade Federal Fluminense
 Rodrigo Capaz   - Universidade Federal do Rio de Janeiro & LNNano/CNPEM
 
 Sylvio Canuto   - Universidade de São Paulo
+
+
+# Programa
+
+<div style="text-align:right">
+  <img src="Figures/Programa.png" alt="Programa" width="680">
+</div>
+
+
+## Minicursos
+
+- **Alexandre C. Dias** (UnB) — *Excitonic Effects using WanTiBEXOS Package: A MLWF-TB+BSE approach*
+- **Fernando Sabino** (USP – São Carlos) — *Introdução à Teoria do Funcional da Densidade: Fundamentos e Aplicações em Materiais*
+- **Luana Pedroza** (IFUSP) — *Dinâmica Molecular na Era da Inteligência Artificial*
+- **Marcos Menezes** (IF-UFRJ) — *Optical Properties of Nanomaterials from ab-initio Calculations*
+
+## Palestras
+
+- **Adalberto Fazzio** (Ilum/CNPEM) — *100 Anos de Mecânica Quântica e (quase) 100 Anos de Estrutura Eletrônica de Sólidos*
+- **Alexandre Reily Rocha** (IFT-Unesp) — *Dinâmica de Água e Gelo utilizando Machine Learning e efeitos quânticos nucleares*
+- **Antonio Azevedo** (UFPe) — *Unlocking Spin, Orbital and Charge Degrees of Freedom in Heterostructures*
+- **Breno Galvão** (CEFET-MG) — *Molecules in the Interstellar Medium*
+- **Carlos Mera** (UFABC) — *A New Chapter in Magnetism: The Rise of Altermagnets*
+- **Eduardo Girão** (UFPI) — *Graph Theory Tools for the Search and Identification of New 2D Nanocarbons with Targeted Electronic Properties*
+- **Flaviano dos Santos** (CBPF) — *Construindo e explorando modelos de spin a partir de métodos de primeiros princípios: do magnetismo não colinear às ondas de spin topológicas.*
+- **Ramon Cardias** (CBPF) — *Estrutura eletrônica e magnetismo: do ab initio ao semi-clássico*
+- **Roberto Bechara Muniz** (UFF) — *As contribuições científicas do Prof. José d'Albuquerque e Castro*
+- **Solange Fagan** (UFN) — *Integrating Theory and Experiment: Ab Initio and Molecular Docking Approaches in Carbon Nanostructures*
+- **Tarik Cysne** (IF-UFF) — *Orbitronics: From Transport to Topology*
+- **Thiago Cardozo** (IQ-UFRJ) — *A Aristocracia Química — Previsão Teórica de Espécies Metaestáveis de Gases Nobres*
