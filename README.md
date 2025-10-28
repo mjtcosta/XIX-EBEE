@@ -117,7 +117,7 @@ Sylvio Canuto   - Universidade de São Paulo
 
 <img src="Figures/INCT-Mat-Info.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
 <img src="Figures/FAPERJ.jpg" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
-<img src="Figures/CAPES.pdf" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
+<img src="Figures/CAPES.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
 <div style="clear:both;"></div>
 
 
