@@ -20,9 +20,11 @@
   <img src="Figures/EBEE-2025.png"        alt="Direita"  style="width:38%; height:auto;">
 </div> -->
 
-<img src="Figures/EBEE-2025.png" alt="Esquerda" style="float:left;  width:20%; margin:0 12px 12px 0;">
-<img src="Figures/if-uff.png" alt="Direita"  style="float:center; width:20%; margin:0 0 12px 12px;">
-<div style="clear:both;"></div>
+<!-- <img src="Figures/EBEE-IF-Logo.png" alt="Esquerda" style="float:left;  width:120%; margin:0 12px 12px 0;"> -->
+<!-- <img src="Figures/if-uff.png" alt="Direita"  style="float:center; width:20%; margin:0 0 12px 12px;"> -->
+<!-- <div style="clear:both;"></div> -->
+
+<img src="Figures/EBEE-2025.png" width="280" alt="Esquerda">                   <img src="Figures/if-uff.png" width="280" alt="Direita"> 
 
 
 # XIX Escola Brasileira de Estrutura Eletrônica ([EBEE](https://www1.fisica.org.br/~ebee/xix/index.php))
@@ -89,3 +91,26 @@ Sylvio Canuto   - Universidade de São Paulo
 - **Solange Fagan** (UFN) — *Integrating Theory and Experiment: Ab Initio and Molecular Docking Approaches in Carbon Nanostructures*
 - **Tarik Cysne** (IF-UFF) — *Orbitronics: From Transport to Topology*
 - **Thiago Cardozo** (IQ-UFRJ) — *A Aristocracia Química — Previsão Teórica de Espécies Metaestáveis de Gases Nobres*
+
+## Realização
+
+
+<img src="Figures/SBF.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
+<!-- <img src="Figures/if-uff.png" alt="Direita"  style="float:center; width:20%; margin:0 0 12px 12px;"> -->
+<div style="clear:both;"></div>
+
+## Apoio
+
+
+<img src="Figures/INCT-Mat-Info.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
+<img src="Figures/FAPERJ.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
+<img src="Figures/CAPES.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
+<div style="clear:both;"></div>
+
+
+## Patrocínio
+
+
+<img src="Figures/SCHERM.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
+<img src="Figures/VERSATUS.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
+<div style="clear:both;"></div>
