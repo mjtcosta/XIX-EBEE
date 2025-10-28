@@ -96,3 +96,19 @@ Sylvio Canuto   - Universidade de São Paulo
 <img src="Figures/SBF.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
 <!-- <img src="Figures/if-uff.png" alt="Direita"  style="float:center; width:20%; margin:0 0 12px 12px;"> -->
 <div style="clear:both;"></div>
+
+## Apoio
+
+
+<img src="Figures/INCT-Mat-Info.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
+<img src="Figures/logo_faperj_cor.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
+<img src="Figures/logo-original-fundo-claro.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
+<div style="clear:both;"></div>
+
+
+## Patrocínio
+
+
+<img src="Figures/scherm.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
+<img src="Figures/vs-horizontal-principal.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
+<div style="clear:both;"></div>
