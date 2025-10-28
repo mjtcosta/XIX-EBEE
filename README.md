@@ -89,3 +89,10 @@ Sylvio Canuto   - Universidade de São Paulo
 - **Solange Fagan** (UFN) — *Integrating Theory and Experiment: Ab Initio and Molecular Docking Approaches in Carbon Nanostructures*
 - **Tarik Cysne** (IF-UFF) — *Orbitronics: From Transport to Topology*
 - **Thiago Cardozo** (IQ-UFRJ) — *A Aristocracia Química — Previsão Teórica de Espécies Metaestáveis de Gases Nobres*
+
+## Realização
+
+
+<img src="Figures/SBF.png" alt="Esquerda" style="float:left;  width:50%; margin:0 12px 12px 0;">
+<!-- <img src="Figures/if-uff.png" alt="Direita"  style="float:center; width:20%; margin:0 0 12px 12px;"> -->
+<div style="clear:both;"></div>
