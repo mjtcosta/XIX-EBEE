@@ -87,7 +87,7 @@ Sylvio Canuto   - Universidade de São Paulo
 <table>
   <tr>
     <td valign="middle"><img src="Figures/INCT-MAT-INFO.png" height="180" alt="Right"></td>
-    <td valign="center"><img src="Figures/FAPERJ.jpg" height="100" alt="Right"></td>
+    <td valign="center"><img src="Figures/FAPERJ.jpg" height="150" alt="Right"></td>
     <td valign="right"><img src="Figures/CAPES.png" height="180" alt="Right"></td>
   </tr>
 </table>
@@ -102,6 +102,15 @@ Sylvio Canuto   - Universidade de São Paulo
 ## Patrocínio
 
 
-<img src="Figures/SCHERM.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
-<img src="Figures/VERSATUS.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;">
-<div style="clear:both;"></div>
+<!-- <img src="Figures/SCHERM.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;"> -->
+<!-- <img src="Figures/VERSATUS.png" alt="Esquerda" style="float:left;  width:30%; margin:0 12px 12px 0;"> -->
+<!-- <div style="clear:both;"></div> -->
+
+
+<table>
+  <tr>
+    <td valign="middle"><img src="Figures/SCHERM.png" height="180" alt="Right"></td>
+    <td valign="right"><img src="Figures/VERSATUS.png" height="180" alt="Right"></td>
+  </tr>
+</table>
+
