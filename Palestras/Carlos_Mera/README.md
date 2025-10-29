@@ -14,4 +14,4 @@ A apresentação parte da ideia de que **“quantum materials”** exibem propri
 
 ## Perfis
 - **Google Scholar:** https://scholar.google.com/citations?user=jRMGKA8AAAAJ  
-- **Lattes:** http://lattes.cnpq.br/651113080276062
+- **Lattes:** http://lattes.cnpq.br/0651113080276062
